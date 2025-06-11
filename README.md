@@ -38,7 +38,7 @@ Os estudos de caso estão disponíveis como arquivos Jupyter Notebook (com exten
 * **Modelo Utilizado:** Regressão Linear.
 * **Resultados Principais:** O modelo obteve uma acurácia de **93%**, indicando uma boa capacidade preditiva para o valor de aluguel. As features mais importantes para essa previsão incluíram a **área do imóvel, o número de banheiros e o número de quartos**. Este modelo pode ser uma ferramenta valiosa tanto para proprietários que desejam precificar seus imóveis quanto para inquilinos em busca de avaliações justas.
 * **Notebook:** previsao_aluguel_imoveis
-* **Dataset:** `dados_apartamentos.csv` (disponível neste repositório)
+* **Dataset:** `dados_apartamentos.csv` 
 
 ---
 
@@ -48,7 +48,7 @@ Os estudos de caso estão disponíveis como arquivos Jupyter Notebook (com exten
 * **Modelos Utilizados:** Regressão Linear, Árvore de Decisão e Random Forest.
 * **Resultados Principais:** O modelo de **Random Forest** demonstrou o melhor desempenho, alcançando uma acurácia de **97.6%** e o menor Erro Médio Absoluto (MAE), o que sugere uma excelente capacidade de generalização e precisão nas previsões de óbitos.
 * **Notebook:** previsao_obitos_covid
-* **Dataset:** `Dados_Covid_-_Regress_o_Linear.csv` (disponível neste repositório)
+* **Dataset:** `Dados_Covid_-_Regress_o_Linear.csv`
 
 ---
 
